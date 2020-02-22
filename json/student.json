@@ -1,0 +1,48 @@
+[
+    {
+        "id":1,
+        "name":"Ma Wine Wine",
+        "rollno":"5CS-13"
+    },
+    {
+        "id":2,
+        "name":"Ma Thu Zar",
+        "rollno":"5CS-27"
+    },
+    {
+        "id":3,
+        "name":"Ma Phyo Myat Hlaing",
+        "rollno":"5CS-24"
+    },
+    {
+        "id":4,
+        "name":"Ma Khaing Thin Kyi",
+        "rollno":"5CS-33"
+    },
+    {
+        "id":5,
+        "name":"Mg Aung",
+        "rollno":"5CS-30"
+    },
+    {
+        "id":6,
+        "name":"Mg Mya",
+        "rollno":"5CS-37"
+    },
+    {
+        "id":7,
+        "name":"Mg Phyo",
+        "rollno":"5CS-24"
+    },
+    {
+        "id":8,
+        "name":"Mg Moe",
+        "rollno":"5CS-3"
+    },
+    {
+        "id":9,
+        "name":"Mg Hein",
+        "rollno":"5CS-4"
+    }
+    
+]
